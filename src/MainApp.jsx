@@ -6,8 +6,8 @@ function App(){
 
 let intitem=[
   {
-    "name":"SUDhnashu",
-    "date":"5-05-2022"
+    "name":"Sharing Projects",
+    "date":"5-1o-2024"
   }
 ]
 const [item,setItem]=useState(intitem)
